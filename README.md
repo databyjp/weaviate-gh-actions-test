@@ -27,7 +27,7 @@ For more details, read through the summary on this page or see the system [docum
 
 Weaviate uses state-of-the-art machine learning (ML) models to turn your data - text, images, and more - into a searchable vector database.
 
-Here are some highlights.
+Here are some highlights!
 
 ### Speed
 
