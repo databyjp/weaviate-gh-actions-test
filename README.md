@@ -29,6 +29,8 @@ Weaviate uses state-of-the-art machine learning (ML) models to turn your data - 
 
 Here are some highlights.
 
+These are some changes that will require corresponding changes in other repos!
+
 ### Speed
 
 Weaviate is fast. The core engine can run a 10-NN nearest neighbor search on millions of objects in milliseconds. See [benchmarks](https://weaviate.io/developers/weaviate/benchmarks).
